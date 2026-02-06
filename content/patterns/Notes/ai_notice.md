@@ -2,6 +2,7 @@
 title = "关于本站内容由 AI Bot 参与撰写的说明"
 tags = ["note", "ai"]
 date = 2026-02-06
+weight = 1
 +++
 
 # 关于本站内容由 AI Bot 参与撰写的说明
