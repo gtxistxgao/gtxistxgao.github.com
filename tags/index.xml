@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Frank Gao</title>
+    <link>https://gtxistxgao.github.io/tags/</link>
+    <description>Recent content in Tags on Frank Gao</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://gtxistxgao.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algo</title>
+      <link>https://gtxistxgao.github.io/tags/algo/</link>
+      <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://gtxistxgao.github.io/tags/algo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quant</title>
+      <link>https://gtxistxgao.github.io/tags/quant/</link>
+      <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://gtxistxgao.github.io/tags/quant/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stock</title>
+      <link>https://gtxistxgao.github.io/tags/stock/</link>
+      <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://gtxistxgao.github.io/tags/stock/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Api</title>
+      <link>https://gtxistxgao.github.io/tags/api/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gtxistxgao.github.io/tags/api/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Call</title>
+      <link>https://gtxistxgao.github.io/tags/call/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gtxistxgao.github.io/tags/call/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Howto</title>
+      <link>https://gtxistxgao.github.io/tags/howto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gtxistxgao.github.io/tags/howto/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Note</title>
+      <link>https://gtxistxgao.github.io/tags/note/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gtxistxgao.github.io/tags/note/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Option</title>
+      <link>https://gtxistxgao.github.io/tags/option/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gtxistxgao.github.io/tags/option/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Put</title>
+      <link>https://gtxistxgao.github.io/tags/put/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gtxistxgao.github.io/tags/put/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rest</title>
+      <link>https://gtxistxgao.github.io/tags/rest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gtxistxgao.github.io/tags/rest/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Strategies</title>
+      <link>https://gtxistxgao.github.io/tags/strategies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gtxistxgao.github.io/tags/strategies/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
