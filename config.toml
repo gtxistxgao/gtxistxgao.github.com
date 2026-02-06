@@ -1,0 +1,10 @@
+languageCode = "en-us"
+title = "Frank Gao"
+baseURL = "https://gtxistxgao.github.io/"
+canonifyURLs = true
+theme = "cupper"
+publishDir = "docs"
+
+[params]
+  description = "How to code?"
+  codePenUser = "Heydon"
