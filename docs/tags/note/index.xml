@@ -6,20 +6,28 @@
     <description>Recent content in Note on Frank Gao</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 06 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://gtxistxgao.github.io/tags/note/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notes</title>
+      <link>https://gtxistxgao.github.io/patterns/notes/</link>
+      <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://gtxistxgao.github.io/patterns/notes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>关于本站内容由 AI Bot 参与撰写的说明</title>
+      <link>https://gtxistxgao.github.io/patterns/notes/ai_notice/</link>
+      <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://gtxistxgao.github.io/patterns/notes/ai_notice/</guid>
+      <description>&lt;h1 id=&#34;关于本站内容由-ai-bot-参与撰写的说明&#34;&gt;关于本站内容由 AI Bot 参与撰写的说明&lt;/h1&gt;&#xA;&lt;p&gt;为了提高整理效率、扩大知识覆盖面，本站部分文章由 AI 助手协助撰写与整理。AI 在生成内容时会参考公开资料与作者提供的方向，但仍可能存在遗漏或错误。因此：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;内容仅供学习与参考，不构成任何专业建议。&lt;/li&gt;&#xA;&lt;li&gt;如果你发现问题或希望更深入的解释，欢迎指出或交流。&lt;/li&gt;&#xA;&lt;li&gt;重要结论会尽量由人工复核或补充说明。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;自本篇起，所有由 AI Bot 撰写或协助撰写的文章，都会在文末标注署名与所使用的模型信息。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;署名&lt;/strong&gt;：OpenBot&lt;br&gt;&#xA;&lt;strong&gt;Model&lt;/strong&gt;：openai-codex/gpt-5.2-codex&lt;/p&gt;</description>
+    </item>
     <item>
       <title>How to design RESTful APIs</title>
       <link>https://gtxistxgao.github.io/patterns/notes/design_rest_api/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://gtxistxgao.github.io/patterns/notes/design_rest_api/</guid>
       <description>&lt;h2 id=&#34;date-04112020-frank-gao&#34;&gt;Date: 04/11/2020 Frank Gao&lt;/h2&gt;&#xA;&lt;p&gt;This is course note for the following online course:&#xA;&amp;ldquo;Designing RESTful APIs&amp;rdquo; on LinkedIn by Keith Casey&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/learning/designing-restful-apis/welcome?u=3322&#34;&gt;https://www.linkedin.com/learning/designing-restful-apis/welcome?u=3322&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Course completed on Apr 11, 2020&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-good-api-design-important&#34;&gt;Why good API design important?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;What function to expose&lt;/li&gt;&#xA;&lt;li&gt;How to expose&lt;/li&gt;&#xA;&lt;li&gt;Best way to expose&lt;/li&gt;&#xA;&lt;li&gt;Assumptions&lt;/li&gt;&#xA;&lt;li&gt;Test and validate assumptions&lt;/li&gt;&#xA;&lt;li&gt;Rethink with unexpected use cases&lt;/li&gt;&#xA;&lt;li&gt;Versioning&lt;/li&gt;&#xA;&lt;li&gt;Backward compability&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Think of 3 aspects, they have to aligned:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;What API does&lt;/li&gt;&#xA;&lt;li&gt;What the API makes easy&lt;/li&gt;&#xA;&lt;li&gt;What the user want to do&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;how-to-we-add-an-api&#34;&gt;How to we add an API?&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;Bolt-on Strategy&lt;/th&gt;&#xA;          &lt;th&gt;Facade Strategy&lt;/th&gt;&#xA;          &lt;th&gt;Greenfield Strategy&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Pro&lt;/td&gt;&#xA;          &lt;td&gt;Brute-force approach&lt;/td&gt;&#xA;          &lt;td&gt;replacing system piece by piece / keep working system functioning&lt;/td&gt;&#xA;          &lt;td&gt;API first o rmobile first mindset. New technologies and architectures&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Con&lt;/td&gt;&#xA;          &lt;td&gt;Leaking internal design&lt;/td&gt;&#xA;          &lt;td&gt;Multiple mindsets / hard to replicate behavior 1:1&lt;/td&gt;&#xA;          &lt;td&gt;Massive upfront investment before benefit from it&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;how-to-modeling-api&#34;&gt;How to modeling API?&lt;/h2&gt;&#xA;&lt;h3 id=&#34;3-rules&#34;&gt;3 rules&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Don&amp;rsquo;t focus on tools&lt;/li&gt;&#xA;&lt;li&gt;Have a consistent process&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Doc things same way&lt;/li&gt;&#xA;&lt;li&gt;Team work sync always&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;It does not count if not doc it.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Design may not clear&lt;/li&gt;&#xA;&lt;li&gt;Risk is unassessed&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: doc everything&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Notes</title>
-      <link>https://gtxistxgao.github.io/patterns/notes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://gtxistxgao.github.io/patterns/notes/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>

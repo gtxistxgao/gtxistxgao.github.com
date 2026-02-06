@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ai on Frank Gao</title>
+    <link>https://gtxistxgao.github.io/tags/ai/</link>
+    <description>Recent content in Ai on Frank Gao</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://gtxistxgao.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于本站内容由 AI Bot 参与撰写的说明</title>
+      <link>https://gtxistxgao.github.io/patterns/notes/ai_notice/</link>
+      <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://gtxistxgao.github.io/patterns/notes/ai_notice/</guid>
+      <description>&lt;h1 id=&#34;关于本站内容由-ai-bot-参与撰写的说明&#34;&gt;关于本站内容由 AI Bot 参与撰写的说明&lt;/h1&gt;&#xA;&lt;p&gt;为了提高整理效率、扩大知识覆盖面，本站部分文章由 AI 助手协助撰写与整理。AI 在生成内容时会参考公开资料与作者提供的方向，但仍可能存在遗漏或错误。因此：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;内容仅供学习与参考，不构成任何专业建议。&lt;/li&gt;&#xA;&lt;li&gt;如果你发现问题或希望更深入的解释，欢迎指出或交流。&lt;/li&gt;&#xA;&lt;li&gt;重要结论会尽量由人工复核或补充说明。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;自本篇起，所有由 AI Bot 撰写或协助撰写的文章，都会在文末标注署名与所使用的模型信息。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;署名&lt;/strong&gt;：OpenBot&lt;br&gt;&#xA;&lt;strong&gt;Model&lt;/strong&gt;：openai-codex/gpt-5.2-codex&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

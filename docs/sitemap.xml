@@ -2,10 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://gtxistxgao.github.io/tags/ai/</loc>
+    <lastmod>2026-02-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://gtxistxgao.github.io/tags/algo/</loc>
     <lastmod>2026-02-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gtxistxgao.github.io/</loc>
+    <lastmod>2026-02-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gtxistxgao.github.io/tags/note/</loc>
+    <lastmod>2026-02-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gtxistxgao.github.io/patterns/notes/</loc>
     <lastmod>2026-02-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gtxistxgao.github.io/patterns/</loc>
@@ -26,6 +35,9 @@
     <loc>https://gtxistxgao.github.io/patterns/stockmarket/mft_algorithms/</loc>
     <lastmod>2026-02-06T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://gtxistxgao.github.io/patterns/notes/ai_notice/</loc>
+    <lastmod>2026-02-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://gtxistxgao.github.io/tags/api/</loc>
   </url><url>
     <loc>https://gtxistxgao.github.io/tags/call/</loc>
@@ -37,10 +49,6 @@
     <loc>https://gtxistxgao.github.io/patterns/notes/design_rest_api/</loc>
   </url><url>
     <loc>https://gtxistxgao.github.io/tags/howto/</loc>
-  </url><url>
-    <loc>https://gtxistxgao.github.io/tags/note/</loc>
-  </url><url>
-    <loc>https://gtxistxgao.github.io/patterns/notes/</loc>
   </url><url>
     <loc>https://gtxistxgao.github.io/tags/option/</loc>
   </url><url>
